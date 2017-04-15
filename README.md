@@ -1,5 +1,8 @@
-# Firebase SDK for Cloud Functions Codelab - Start code
+# Firebase Cloud Functions
+Hey! First of all, you should take a look on my Firebase Web Codelab [repo](https://github.com/rcmarcelo/Firebase-Web-Codelab).
 
-This folder contains the start code of the [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
+From another Google Codelab tutorial, this time it teaches  how to use the Firebase SDK for Google Cloud Functions by improving FriendlyChat.
 
-If you'd like to jump directly to the end and see the finished code head to the [cloud-functions](../cloud-functions) directory.
+You can learn how to do it by following the step-by-step Google Codelab [here](https://codelabs.developers.google.com/codelabs/firebase-web/index.html).
+
+If you want to see it running, my version is right [here](https://friendlychat-1e59c.firebaseapp.com/)!
